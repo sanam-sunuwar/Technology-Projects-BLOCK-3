@@ -8,13 +8,14 @@ Run:
 
 ### Screenshot
 
-(Add screenshot here)
+<img width="2649" height="1643" alt="image" src="https://github.com/user-attachments/assets/f07bffe0-c55c-40f1-9efc-b5c28f91ff8a" />
 
 ### Questions
 
 1.  How many users exist on the system?
-2.  Which accounts appear to be system accounts?
-3.  Why do operating systems create system accounts?
+   
+3.  Which accounts appear to be system accounts?
+4.  Why do operating systems create system accounts?
 
 ### Reflection
 
@@ -35,8 +36,9 @@ Run:
 ### Questions
 
 1.  Which processes are running as `root`?
-2.  Why can processes running as root be dangerous?
-3.  What could happen if a malicious program ran with root privileges?
+   
+3.  Why can processes running as root be dangerous?
+4.  What could happen if a malicious program ran with root privileges?
 
 ### Reflection
 
